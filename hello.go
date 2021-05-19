@@ -16,7 +16,7 @@ func main() {
 
 	fmt.Println("HELLO")
 	fmt.Println(numero)
-	fmt.Printf("%d %d     %f\n", numero, num, val3)
+	fmt.Printf("%d %d     %.3f\n", numero, num, val3)
 
 	fmt.Println(uno, dos, tres, val, val2, val3)
 
