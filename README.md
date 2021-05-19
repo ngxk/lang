@@ -53,37 +53,3 @@ fn main(){
 }
 
 ```
-
-## Variables
-### Go-lang
-
-### C
-### C++
-### Rust-lang
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-
-### Go-lang
-### C
-### C++
-### Rust-lang
