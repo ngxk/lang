@@ -1,19 +1,20 @@
 # Programming
 
 ## Compilators
-### Go-lang
-> go run hello.go
+```
+# Go
+$ go run hello.go
 
-### C
-> gcc hola.c -o hola
+# C
+$ gcc hello.c -o helloc
 
-### C++
-> g++ hi.cpp -o hi
+# C++
+$ g++ hello.cpp  -o hellocpp
 
-### Rust-lang
-> rustc pizza.rs
-
-> cargo run
+# Rust
+$ rustc pizza.rs
+$ cargo run
+```
 
 ## Hello World!
 ### Go-lang
@@ -36,7 +37,7 @@ int main(){
 }
 ```
 ### C++
-```c
+```c++
 #import <iostream>
 using namespace std;
 
@@ -53,3 +54,7 @@ fn main(){
 }
 
 ```
+
+
+ts 
+--noEmitOnError
